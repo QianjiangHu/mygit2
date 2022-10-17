@@ -4,7 +4,6 @@
 # European Respiratory Journal 2022 59: 2102373; [DOI: 10.1183/13993003.02373-2021](https://erj.ersjournals.com/content/59/6/2102373) 
 ```
 
-<div align='center' ><font size='10' color='blue'>European Respiratory Journal 2022 59: 2102373; [DOI: 10.1183/13993003.02373-2021](https://erj.ersjournals.com/content/59/6/2102373) </font></div>
 
 
 <p align = "justify"> 

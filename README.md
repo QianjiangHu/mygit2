@@ -1,7 +1,7 @@
 ### <div align='center' ><font size='70'>Single cell RNA Sequencing Identifies G-protein Coupled Receptor 87 as a Basal Cell Marker Expressed in Distal Honeycomb Cysts in Idiopathic Pulmonary Fibrosis </font></div>
 
 ```diff
-# European Respiratory Journal 2022 59: 2102373; [DOI: 10.1183/13993003.02373-2021](https://erj.ersjournals.com/content/59/6/2102373) 
+European Respiratory Journal 2022 59: 2102373; [DOI: 10.1183/13993003.02373-2021](https://erj.ersjournals.com/content/59/6/2102373) 
 ```
 
 
